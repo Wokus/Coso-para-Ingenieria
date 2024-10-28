@@ -14,7 +14,7 @@ services:
     #    tmpfs:
     #      size: 134217728 # 128*2^20 bytes = 128Mb
     environment:
-      POSTGRES_PASSWORD: example
+      POSTGRES_PASSWORD: 121212
 
   adminer:
     image: adminer
@@ -24,7 +24,4 @@ services:
       
   java:
     image: jose
-    restart: always
-    ports:
-      - 8080:8080
-
+    

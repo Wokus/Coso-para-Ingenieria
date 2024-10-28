@@ -1,6 +1,3 @@
 FROM openjdk:17
-COPY . /espotify-1.0-SNAPSHOT.jar
-WORKDIR /carpeta2
-
-
-#ENTRYPOINT ["java", "-jar", "espotify-1.0-SNAPSHOT.jar"]
+COPY espotify-1.0-SNAPSHOT.jar /home/espotify-1.0-SNAPSHOT.jar
+CMD ["java","-jar","/home/espotify-1.0-SNAPSHOT.jar"]
