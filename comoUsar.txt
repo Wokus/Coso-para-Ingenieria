@@ -1,0 +1,6 @@
+Como usar:
+1-Párese en la carpeta2 y ponga "sudo docker build -t jose ."
+2-Párese en la carpeta1 y haga el "docker compose up" de toda la vida
+3-Espere, como, un ratito importante. La aplicación en java demora un rato después de que se inicia
+el sercivio de Postgresql, la consola se queda congelada como por medio minuto.
+
