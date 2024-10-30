@@ -12,4 +12,8 @@ Datos cargados:
 		El Listo
 		Popo
 		EstoyCansado
-
+Adminer:
+	Usuario: postgres
+	Contraseña: 121212
+	Server: db
+	Base de datos: espotify21
