@@ -4,3 +4,12 @@ Como usar:
 3-Espere, como, un ratito importante. La aplicación en java demora un rato después de que se inicia
 el sercivio de Postgresql, la consola se queda congelada como por medio minuto.
 
+
+Base de datos: espotify21
+
+Datos cargados: 
+	Usuarios:
+		El Listo
+		Popo
+		EstoyCansado
+
